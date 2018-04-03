@@ -27,11 +27,11 @@ False
 1 != '1' - True
 
 
-# x  in list
+# x  in list  по ключам
 2 in [2,3,4] - True
 1 in [2,3,4] - False
 
-# x not in list
+# x not in list по ключам
 
 2 not in [2,3,4] - False
 1 not in [2,3,4] - True
