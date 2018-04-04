@@ -1,4 +1,3 @@
-
 mylist1 = [1,2,3,4,5] # списки
 mylist2 = []
 mylist3 = ['z']
