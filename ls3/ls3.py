@@ -1,4 +1,14 @@
-a = [1,2,3,4,4]
+def add (x, y):
+    result = x + y
+    return result
 
-for i in a:
-    print(i)
+result = add (1, 2)
+print(result)
+
+
+
+
+
+
+
+
