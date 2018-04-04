@@ -1,7 +1,7 @@
 userInput = 0
 
 while True:
-  try:
+try:
      userInput = int(input("Введите совй год рождения: "))
   except ValueError:
      print("Не коректные данные (not an integer!)")
