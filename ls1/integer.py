@@ -15,5 +15,3 @@ my_zp = 1000
 tax   = 20
 inc = my_zp * tax
 print(inc)
-
-
