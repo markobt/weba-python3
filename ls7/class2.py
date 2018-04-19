@@ -36,7 +36,7 @@ car1 = {"marka": up_name_car1, "privod": up_drive_car1, "state car": up_state_ca
 
 print(car1)
 
-# В авто сервисе2 обновляем и меняем запчасти в машине 1
+# В авто-сервисе2 обновляем и меняем запчасти в машине 2
 up_name_car2 = auto2_service.upgrade_name("Nissan Qashqai")
 up_drive_car2 = auto2_service.upgrade_drive("front")
 up_state_car2 = auto2_service.upgrade_state(5)
